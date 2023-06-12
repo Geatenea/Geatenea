@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Geatenea
+- 🌱 I’m currently learning data analisys for data scientists on python
+- 📫 How to reach me: mariab.gonzalezreyes@wilkes.edu
